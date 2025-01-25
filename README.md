@@ -6,7 +6,7 @@
 
 ---
 
-💻 Обо мне
+## 💻 Обо мне
 
 🌟 Я начинающий iOS-разработчик, изучаю Swift и UIKit.  
 🎓 Осваиваю SwiftUI, Combine, Core Data и другие современные технологии для создания мобильных приложений.  
@@ -18,7 +18,13 @@
 
 🚀 Навыки, которые изучаю
 
-<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-%2302569B.svg?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/UIKit-%23EE4C2C.svg?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SwiftUI-%2302569B.svg?style=for-the-badge&logo=swift&logoColor=white" /> 
+<img src="https://img.shields.io/badge/UIKit-%23EE4C2C.svg?style=for-the-badge&logo=apple&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
@@ -31,5 +37,5 @@
 
 ### 🌟 Лучшие проекты
 - [MovieQuiz](https://github.com/Fortovaya/MovieQuiz) — приложение с квизами о фильмах из топ-250 рейтинга
-- [ImageFeed](https://github.com/Fortovaya/ImageFeed)
+- [ImageFeed](https://github.com/Fortovaya/ImageFeed) - приложение для просмотра изображений
 
