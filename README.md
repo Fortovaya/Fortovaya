@@ -19,14 +19,15 @@
 
 🚀 Навыки, которые изучаю
 
-![Swift](https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_of_Swift.svg)
-![SwiftUI](https://upload.wikimedia.org/wikipedia/commons/8/88/SwiftUI_logo.svg)
-![UIKit](https://upload.wikimedia.org/wikipedia/commons/c/c5/UIKit_logo.svg)
-![Xcode](https://upload.wikimedia.org/wikipedia/commons/f/f6/Xcode_Logo.svg)
-![Figma](https://upload.wikimedia.org/wikipedia/commons/a/a7/Figma-logo.svg)
-![Git](https://upload.wikimedia.org/wikipedia/commons/7/72/Git-logo.svg)
-![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/95/GitHub_logo_2018.svg)
-![SourceTree](https://upload.wikimedia.org/wikipedia/commons/5/51/SourceTree_logo.svg)
+<img src="https://heroicons.com/icons/swift.svg" width="50" height="50"/>
+<img src="https://heroicons.com/icons/swiftui.svg" width="50" height="50"/>
+<img src="https://heroicons.com/icons/uikit.svg" width="50" height="50"/>
+<img src="https://heroicons.com/icons/xcode.svg" width="50" height="50"/>
+<img src="https://heroicons.com/icons/figma.svg" width="50" height="50"/>
+<img src="https://heroicons.com/icons/git.svg" width="50" height="50"/>
+<img src="https://heroicons.com/icons/github.svg" width="50" height="50"/>
+<img src="https://heroicons.com/icons/sourcetree.svg" width="50" height="50"/>
+
 
 
 
