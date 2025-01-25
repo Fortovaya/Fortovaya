@@ -19,14 +19,15 @@
 
 🚀 Навыки, которые изучаю
 
-<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=social&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-%2302569B.svg?style=social&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/UIKit-%23EE4C2C.svg?style=social&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=social&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=social&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-%23F1502F.svg?style=social&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=social&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/SourceTree-%23000000.svg?style=social&logo=sourcetree&logoColor=white" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_of_Swift.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SwiftUI_logo.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/UIKit_logo.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Xcode_Logo.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Figma-logo.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Git-logo.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/GitHub_logo_2018.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/SourceTree_logo.svg" width="50" height="50"/>
+
 
 
 
