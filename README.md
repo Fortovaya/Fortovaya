@@ -24,8 +24,9 @@
 ---
 
 ### 📈 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fortovaya&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortovaya&layout=compact&theme=radical)
 
 ---
 
