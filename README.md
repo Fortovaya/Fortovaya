@@ -1,6 +1,6 @@
 # Привет! 👋 Я Алина
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Привет!+Я+разработчик+из+России;Люблю+писать+код;Изучаю+новые+технологии)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Привет!+Я+IOS+DEVELOPER;Люблю+писать+код;Изучаю+новые+технологии)
 
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpmdzMwdXB4bTIwaXU5Z2NtMnNoZWZoMDU3Z254bGhkZ3hhdWYyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 
