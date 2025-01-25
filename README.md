@@ -1,4 +1,4 @@
-#Hello
+# Hello
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Привет!Я+Алина+Фирсенкова;Я+Ios+Developer;Люблю+писать+код;и+изучать+новые+технологии)
 
