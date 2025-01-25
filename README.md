@@ -16,11 +16,7 @@
 
 🚀 Навыки, которые изучаю
 
-<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" /> 
-<img src="https://img.shields.io/badge/SwiftUI-%2302569B.svg?style=for-the-badge&logo=swift&logoColor=white" /> 
-<img src="https://img.shields.io/badge/UIKit-%23EE4C2C.svg?style=for-the-badge&logo=apple&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-%2302569B.svg?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/UIKit-%23EE4C2C.svg?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 ---
 
