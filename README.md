@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Я+Алина+Фирсенкова;Я+Ios+Developer;Люблю+писать+код;и+изучать+новые+технологии)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhnZmF1bWphNmliMHhhaG1pc2M1YjU5dWw0b2YyZmhtbDY5b2c2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/smGpsxCQzXwDS/giphy.gif" width="100%">
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpmdzMwdXB4bTIwaXU5Z2NtMnNoZWZoMDU3Z254bGhkZ3hhdWYyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
 
 
