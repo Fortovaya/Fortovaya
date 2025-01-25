@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Привет!Я+Алина+Фирсенкова;Я+Ios+Developer;Люблю+писать+код;Изучаю+новые+технологии)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Привет!Я+Алина+Фирсенкова;Я+Ios+Developer;Люблю+писать+код;и+изучать+новые+технологии)
 
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpmdzMwdXB4bTIwaXU5Z2NtMnNoZWZoMDU3Z254bGhkZ3hhdWYyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 
