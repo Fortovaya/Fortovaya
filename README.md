@@ -26,6 +26,8 @@
 
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fortovaya&show_icons=true&theme=radical)
+
 ---
 
 ### 📈 Статистика
