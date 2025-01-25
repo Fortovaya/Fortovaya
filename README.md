@@ -26,8 +26,6 @@
 
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-![Meteor Shower](https://media.giphy.com/media/3ohhwpMlW7zRVlZtLe/giphy.gif)
-
 ---
 
 ### 📈 Статистика
