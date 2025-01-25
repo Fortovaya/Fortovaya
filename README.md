@@ -1,7 +1,7 @@
 # Привет! 👋 Я Алина
 
 
-![Hello](https://media.giphy.com/media/1m4ukmk9Lu90At2FGu/giphy.gif?cid=ecf05e47b6zh4bis5xu089txtku0prr95oxps7wis0tuii2i&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpmdzMwdXB4bTIwaXU5Z2NtMnNoZWZoMDU3Z254bGhkZ3hhdWYyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 
 ---
 
