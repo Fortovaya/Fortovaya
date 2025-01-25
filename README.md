@@ -19,14 +19,14 @@
 
 🚀 Навыки, которые изучаю
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_of_Swift.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SwiftUI_logo.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/UIKit_logo.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Xcode_Logo.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Figma-logo.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Git-logo.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/GitHub_logo_2018.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/SourceTree_logo.svg" width="50" height="50"/>
+<img src="path_to_your_icon/swift.svg" width="50" height="50"/>
+<img src="path_to_your_icon/swiftui.svg" width="50" height="50"/>
+<img src="path_to_your_icon/uikit.svg" width="50" height="50"/>
+<img src="path_to_your_icon/xcode.svg" width="50" height="50"/>
+<img src="path_to_your_icon/figma.svg" width="50" height="50"/>
+<img src="path_to_your_icon/git.svg" width="50" height="50"/>
+<img src="path_to_your_icon/github.svg" width="50" height="50"/>
+<img src="path_to_your_icon/sourcetree.svg" width="50" height="50"/>
 
 
 
