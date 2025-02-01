@@ -32,9 +32,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fortovaya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortovaya&layout=compact&theme=radical)
 
----
-
-### 🌟 Лучшие проекты
-- [MovieQuiz](https://github.com/Fortovaya/MovieQuiz) — приложение с квизами о фильмах из топ-250 рейтинга
-- [ImageFeed](https://github.com/Fortovaya/ImageFeed) - приложение для просмотра изображений
 
