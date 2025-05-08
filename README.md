@@ -63,4 +63,3 @@ git clone git@github.com:Fortovaya/MovieQuiz.git
 cd MovieQuiz
 open MovieQuiz.xcodeproj
 
-
