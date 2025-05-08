@@ -40,7 +40,7 @@ MovieQuiz — это приложение с квизами о фильмах и
 ### 📸 Скриншоты
 
 <p align="center">
-  <img src="img/mockup.gif" width="300">
+  <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/mockup.gif?raw=true" width="300">
 </p>
 
 ---
