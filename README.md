@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="300" valign="top" align="center">
-<img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/Simulator.mp4?raw=true" width="100%" style="border-radius:10px;">
+<img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/mockupFive.gif?raw=true" width="100%" style="border-radius:10px;">
 </td>
 <td valign="top">
 
