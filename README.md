@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
-      <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/mockImageFeed.gif?raw=true" width="300" alt="ImageFeed Demo"><br>
+      <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/mockupImageFeed.gif?raw=true" width="300" alt="ImageFeed Demo"><br>
       <div style="text-align: center; margin: 15px 0; line-height: 1.6;">
         <img src="https://img.shields.io/badge/Архитектура-MVP-blueviolet?style=flat&logoColor=white" height="24" title="MVP">
         <img src="https://img.shields.io/badge/Сеть-URLSession-important?style=flat" height="24" title="URLSession"><br>
