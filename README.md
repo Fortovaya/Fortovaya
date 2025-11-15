@@ -22,7 +22,51 @@
     </td>
     <td valign="top">
 
-## 📸 <sub>🔗 <a href="https://github.com/Fortovaya/ImageFeed/tree/sprint_13"> ImageFeed </a> </sub>
+## 📸 <sub>🔗 <a href="https://github.com/Fortovaya/Tracker"> Tracker </a> </sub>
+
+**Мобильное приложение для трекинга привычек с календарём, фильтрами и подробной статистикой выполнения
+
+<b>✨ Основные возможности</b>
+
+- Онбординг с кратким объяснением возможностей приложения.
+- Создание трекеров привычек и нерегулярных событий.
+- Настройка расписания по дням недели.
+- Категории трекеров: добавление, редактирование, удаление.
+- Выбор эмодзи и цвета для визуального различения трекеров.
+- Календарь для просмотра запланированных привычек по дате.
+- Поиск по названию и фильтры: все, на сегодня, завершённые, незавершённые.
+- Закрепление важных трекеров в отдельный блок «Закреплённые».
+- Экран статистики: лучший период, идеальные дни, завершённые трекеры, среднее значение.
+- Поддержка светлой и тёмной темы.
+- Локальное хранение данных о привычках (Core Data).
+- 🌐 Локализация интерфейса: русский, английский, французский.
+
+---
+
+### 📱 Требования
+
+```diff
++ iPhone (iOS 13+)
++ Адаптировано под iPhone SE и выше
+- iPad не поддерживается
+```
+  <tr><td colspan="2" style="padding: 15px 0;"></td></tr>
+  <tr>
+   <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
+      <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/mockupFive.gif?raw=true" width="300" alt="MovieQuiz Demo"><br>
+      <div style="text-align: center; margin: 15px 0; line-height: 1.6;">
+        <img src="https://img.shields.io/badge/Architecture-MVP-blueviolet?style=flat&logoColor=white" height="24" title="MVP">
+        <img src="https://img.shields.io/badge/Network-URLSession-important?style=flat" height="24" title="URLSession"><br>
+        <img src="https://img.shields.io/badge/Layout-AutoLayout-9cf?style=flat" height="24" title="AutoLayout">
+        <img src="https://img.shields.io/badge/Testing-XCTest-009688?style=flat&logo=testing-library" height="24" title="Unit Tests"><br>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift 5.7+">
+        <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" height="24" title="UIKit">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="24" title="Figma Design">
+        <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white" height="24" title="Xcode">
+      </div>
+    </td>
+    <td valign="top">
+## 📸 <sub>🔗 <a href="https://github.com/Fortovaya/ImageFeed"> ImageFeed </a> </sub>
 
 **Бесконечная лента фотографий** с авторизацией через Unsplash API
 
