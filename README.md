@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" height="24" title="UIKit">
 <img src="https://img.shields.io/badge/CollectionView-2396F3?style=flat&logo=apple&logoColor=white" height="24" title="Сетка трекеров на UICollectionView">
 <img src="https://img.shields.io/badge/Localization-RU%20%7C%20EN%20%7C%20FR-7952B3?style=flat" height="24" title="Локализация: русский, английский, французский">
+<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="24" title="Дизайн по макетам Figma">
 <img src="https://img.shields.io/badge/Analytics-Yandex_Metrica-FF6D00?style=flat" height="24" title="Аналитика: Яндекс.Метрика">
 <img src="https://img.shields.io/badge/iOS-13.4%2B-000000?style=flat&logo=apple&logoColor=white" height="24" title="Минимальная версия iOS 13.4+">
-<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="24" title="Дизайн по макетам Figma">
       </div>
     </td>
     <td valign="top">
