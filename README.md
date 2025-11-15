@@ -53,7 +53,7 @@
   <tr><td colspan="2" style="padding: 15px 0;"></td></tr>
   <tr>
    <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
-      <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/mockupFive.gif?raw=true" width="300" alt="MovieQuiz Demo"><br>
+      <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/Tracker.gif?raw=true" width="300" alt="MovieQuiz Demo"><br>
       <div style="text-align: center; margin: 15px 0; line-height: 1.6;">
         <img src="https://img.shields.io/badge/Architecture-MVP-blueviolet?style=flat&logoColor=white" height="24" title="MVP">
         <img src="https://img.shields.io/badge/Network-URLSession-important?style=flat" height="24" title="URLSession"><br>
