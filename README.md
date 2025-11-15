@@ -3,21 +3,17 @@
     <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
       <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/Tracker.gif?raw=true" width="300" alt="ImageFeed Demo"><br>
       <div style="text-align: center; margin: 15px 0; line-height: 1.6;">
-        <img src="https://img.shields.io/badge/Architecture-MVP-blueviolet?style=flat&logoColor=white" height="24" title="MVP">
-        <img src="https://img.shields.io/badge/Network-URLSession-important?style=flat" height="24" title="URLSession">
-        <img src="https://img.shields.io/badge/Code_Layout-34C759?logo=xcode" height="26" title="Вёрстка кодом">
-        <img src="https://img.shields.io/badge/Testing-XCTest-009688?style=flat&logo=testing-library" height="24" title="Unit Tests">
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift 5.7+">
-        <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" height="24" title="UIKit">
-        <img src="https://img.shields.io/badge/UITableView-2396F3?logo=apple" height="26" title="Лента фотографий">        
-        <img src="https://img.shields.io/badge/WebKit-147EFB?logo=webkit" height="26" title="WebKit (OAuth flow)">
-         <img src="https://img.shields.io/badge/Unsplash_API-000000?logo=unsplash" height="26" title="Unsplash API">
-        <img src="https://img.shields.io/badge/Kingfisher-FF6D00?logo=kingfisher&logoColor=white" height="26" title="Загрузка изображений">
-         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="24" title="Figma Design">
-        <img src="https://img.shields.io/badge/SwiftKeychainWrapper-7952B3?logo=apple" height="26" title="Хранение токенов">
-        <img src="https://img.shields.io/badge/ProgressHUD-009688?logo=progress" height="26" title="Индикаторы загрузки">
-        <img src="https://img.shields.io/badge/OAuth2-000000?logo=oauth" height="24" title="OAuth 2.0">
-        <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white" height="24" title="Xcode">
+        <img src="https://img.shields.io/badge/Architecture-MVVM-blueviolet?style=flat&logoColor=white" height="24" title="Архитектура: MVVM">
+<img src="https://img.shields.io/badge/Persistence-Core_Data-0D47A1?style=flat&logo=apple&logoColor=white" height="24" title="Хранение данных: Core Data">
+<img src="https://img.shields.io/badge/Settings-UserDefaults-009688?style=flat&logo=gear&logoColor=white" height="24" title="Настройки: UserDefaults">
+<img src="https://img.shields.io/badge/Layout-Auto_Layout-34C759?style=flat&logo=xcode&logoColor=white" height="24" title="Вёрстка кодом, Auto Layout">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift">
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white" height="24" title="UIKit">
+<img src="https://img.shields.io/badge/CollectionView-2396F3?style=flat&logo=apple&logoColor=white" height="24" title="Сетка трекеров на UICollectionView">
+<img src="https://img.shields.io/badge/Localization-RU%20%7C%20EN%20%7C%20FR-7952B3?style=flat" height="24" title="Локализация: русский, английский, французский">
+<img src="https://img.shields.io/badge/Analytics-Yandex_Metrica-FF6D00?style=flat" height="24" title="Аналитика: Яндекс.Метрика">
+<img src="https://img.shields.io/badge/iOS-13.4%2B-000000?style=flat&logo=apple&logoColor=white" height="24" title="Минимальная версия iOS 13.4+">
+<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="24" title="Дизайн по макетам Figma">
       </div>
     </td>
     <td valign="top">
@@ -66,6 +62,7 @@
       </div>
     </td>
     <td valign="top">
+    
 ## 📸 <sub>🔗 <a href="https://github.com/Fortovaya/ImageFeed"> ImageFeed </a> </sub>
 
 **Бесконечная лента фотографий** с авторизацией через Unsplash API
