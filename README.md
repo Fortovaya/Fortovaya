@@ -3,16 +3,16 @@
     <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
       <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/TravelScheduleFinal.gif?raw=true" width="300" alt="TravelSchedule Demo"><br>
       <div style="text-align: center; margin: 15px 0; line-height: 1.6;">
-<img src="https://img.shields.io/badge/Architecture-MVVM-blueviolet?style=flat&logoColor=white" height="24" title="Архитектура: MVVM">
 <img src="https://img.shields.io/badge/UI-SwiftUI-0D47A1?style=flat&logo=swift&logoColor=white" height="24" title="Интерфейс: SwiftUI">
 <img src="https://img.shields.io/badge/iOS-17.0%2B-000000?style=flat&logo=apple&logoColor=white" height="24" title="Минимальная версия iOS 17.0+">
+<img src="https://img.shields.io/badge/Swift-6.0-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift 6.0">
+<img src="https://img.shields.io/badge/Architecture-MVVM-blueviolet?style=flat&logoColor=white" height="24" title="Архитектура: MVVM">
 <img src="https://img.shields.io/badge/Reactive-Combine-009688?style=flat&logo=apple&logoColor=white" height="24" title="Реактивный подход: Combine">
-<img src="https://img.shields.io/badge/Concurrency-async%2Fawait-2962FF?style=flat&logo=swift&logoColor=white" height="24" title="Асинхронность: async/await">
 <img src="https://img.shields.io/badge/Network-URLSession-FF6D00?style=flat&logo=apple&logoColor=white" height="24" title="Сетевое взаимодействие: URLSession">
-<img src="https://img.shields.io/badge/Network_Code-Generation-5D4037?style=flat&logo=swift&logoColor=white" height="24" title="Кодогенерация сетевого слоя для API Яндекс.Расписаний">
-<img src="https://img.shields.io/badge/Localization-RU%20%7C%20EN-7952B3?style=flat" height="24" title="Локализация: русский и английский">
 <img src="https://img.shields.io/badge/Testing-XCTest-009688?style=flat&logo=testing-library&logoColor=white" height="24" title="Тесты: Unit и UI на XCTest">
-<img src="https://img.shields.io/badge/Swift-5.x-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift 6.0">
+<img src="https://img.shields.io/badge/Concurrency-async%2Fawait-2962FF?style=flat&logo=swift&logoColor=white" height="24" title="Асинхронность: async/await">
+<img src="https://img.shields.io/badge/Localization-RU%20%7C%20EN-7952B3?style=flat" height="24" title="Локализация: русский и английский">
+<img src="https://img.shields.io/badge/Network_Code-Generation-5D4037?style=flat&logo=swift&logoColor=white" height="24" title="Кодогенерация сетевого слоя для API Яндекс.Расписаний">
       </div>
     </td>
     <td valign="top">
@@ -30,11 +30,11 @@
 - **Фильтры маршрута** по времени отправления и наличию пересадок.
 - **Карточка перевозчика**: логотип, описание, сайт, телефон, быстрый звонок и переход в браузер.
 - **Лента сторис о путешествиях**.
-- **Экран настроек**: выбор темы (светлая/тёмная), информация о версии и об использовании API Яндекс.Расписаний.
+- **Экран настроек**: выбор темы (светлая/темная), информация о версии и об использовании API Яндекс.Расписаний.
 - Обработка **состояний загрузки, ошибок и пустых списков**.
 - Встроенная **аналитика поведения пользователя**.
 
-
+---
 
 📱 **Требования**
 
