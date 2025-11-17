@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Network-URLSession-FF6D00?style=flat&logo=apple&logoColor=white" height="24" title="Сетевое взаимодействие: URLSession">
 <img src="https://img.shields.io/badge/Testing-XCTest-009688?style=flat&logo=testing-library&logoColor=white" height="24" title="Тесты: Unit и UI на XCTest">
 <img src="https://img.shields.io/badge/Concurrency-async%2Fawait-2962FF?style=flat&logo=swift&logoColor=white" height="24" title="Асинхронность: async/await">
+<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="24" title="Дизайн по макетам Figma">
 <img src="https://img.shields.io/badge/Localization-RU%20%7C%20EN-7952B3?style=flat" height="24" title="Локализация: русский и английский">
 <img src="https://img.shields.io/badge/Network_Code-Generation-5D4037?style=flat&logo=swift&logoColor=white" height="24" title="Кодогенерация сетевого слоя для API Яндекс.Расписаний">
       </div>
