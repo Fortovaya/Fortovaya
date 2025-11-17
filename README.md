@@ -1,6 +1,6 @@
 <table>
 <tr>
-    <td width="320" valign="center" style="padding-top: 30px; text-align: center;">
+    <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
       <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/TravelScheduleFinal.gif?raw=true" width="300" alt="TravelSchedule Demo"><br>
       <div style="text-align: center; margin: 15px 0; line-height: 1.6;">
 <img src="https://img.shields.io/badge/Architecture-MVVM-blueviolet?style=flat&logoColor=white" height="24" title="Архитектура: MVVM">
