@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Swift-6.0-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift 6.0">
 <img src="https://img.shields.io/badge/Concurrency-async%2Fawait-2962FF?style=flat&logo=swift&logoColor=white" height="24" title="Асинхронность: async/await">
 <img src="https://img.shields.io/badge/Actors-Sendable-7E57C2?style=flat" height="24" title="Actors + Sendable для безопасности потоков">
-<img src="https://img.shields.io/badge/Network-Mock_API-5D4037?style=flat" height="24" title="Mock API — имитация покупки">
+<img src="https://img.shields.io/badge/Network-Rest_API-5D4037?style=flat" height="24" title="Mock API — имитация покупки">
 <img src="https://img.shields.io/badge/External-WKWebView-5C6BC0?style=flat" height="24" title="Внешний контент: WKWebView">
 <img src="https://img.shields.io/badge/Settings-@AppStorage-5D4037?style=flat" height="24" title="Сохранение настроек: @AppStorage">
 <img src="https://img.shields.io/badge/State-@Observable-7E57C2?style=flat" height="24" title="Состояние через @Observable">
