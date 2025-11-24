@@ -18,7 +18,7 @@
     </td>
     <td valign="top">
 
-## 📦 <sub>🔗 <a href="[https://github.com/Fortovaya/FakeNFT](https://github.com/Fortovaya/Practicum_FakeNFT_SwiftUI)"> FakeNFT </a></sub>
+## 📦 <sub>🔗 <a href="https://github.com/Fortovaya/Practicum_FakeNFT_SwiftUI"> ShoppingList </a></sub>
 
 **Приложение для просмотра и покупки NFT**, разработанное на SwiftUI с архитектурой MVVM.  
 Проект реализован **в команде**: совместное проектирование, распределение задач, согласованный UI и регулярные код-ревью.
