@@ -1,4 +1,52 @@
 <table>
+    <tr>
+    <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
+<img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/ShoppingList.gif?raw=true" width="300" alt="ShoppingList Demo"><br>
+<div style="text-align: center; margin: 15px 0; line-height: 1.6;">
+<img src="https://img.shields.io/badge/UI-SwiftUI-0D47A1?style=flat&logo=swift&logoColor=white" height="24" title="Интерфейс: SwiftUI">
+<img src="https://img.shields.io/badge/Architecture-MVVM%2BC-blueviolet?style=flat" height="24" title="Архитектура: MVVM + Coordinator">
+<img src="https://img.shields.io/badge/Swift-6.0-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift 6.0">
+<img src="https://img.shields.io/badge/Concurrency-async%2Fawait-2962FF?style=flat&logo=swift&logoColor=white" height="24" title="Асинхронность: async/await">
+<img src="https://img.shields.io/badge/Storage-SwiftData-009688?style=flat&logo=apple&logoColor=white" height="24" title="Локальное хранение: SwiftData">
+<img src="https://img.shields.io/badge/State-@Observable-7E57C2?style=flat" height="24" title="Состояние через @Observable">
+<img src="https://img.shields.io/badge/Settings-@AppStorage-5D4037?style=flat" height="24" title="Настройки через @AppStorage">
+<img src="https://img.shields.io/badge/Code_Style-SwiftLint-795548?style=flat" height="24" title="Единый стиль кода: SwiftLint">
+<img src="https://img.shields.io/badge/iOS-17.0%2B-000000?style=flat&logo=apple&logoColor=white" height="24" title="Минимальная версия iOS 17.0">
+      </div>
+    </td>
+    <td valign="top">
+        
+## 🛒 <sub>🔗 <a href="https://github.com/Fortovaya/ShoppingList27"> ShoppingList </a></sub>
+
+**Приложение для планирования покупок**, разработанное на SwiftUI с архитектурой MVVM+C.
+Проект создавался в команде: совместное проектирование, согласованный стиль интерфейса, регулярные код-ревью..
+
+✨ Основная реализация
+
+- Многомодульная архитектура MVVM + Coordinator
+- Централизованная навигация через Router
+- Добавление, удаление, отметка выполнения и редактирование покупок
+- Группировка элементов и визуальное разделение списка
+- Локальное хранение данных через SwiftData
+- Поддержка светлой и тёмной темы
+- Работа с асинхронностью (async/await)
+- Единая дизайн-система команды
+- Плейсхолдеры для отображения состояний пустого списка и фильтров
+
+🤝 Командная работа
+- GitHub Projects (Kanban): Backlog → In progress → In review → Done
+- GitHub Flow: feature-ветки, PR, code review
+- Решение merge-конфликтов (включая работу через SourceTree)
+- Единый стиль кодирования через SwiftLint
+- Декомпозиция задач и командное планирование
+
+---
+### 📱 Требования
+
+```diff
++ iPhone (iOS 17+)
++ Адаптировано под разные диагонали
+```
 <tr>
     <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
       <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/TravelScheduleFinal.gif?raw=true" width="300" alt="TravelSchedule Demo"><br>
