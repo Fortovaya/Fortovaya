@@ -1,5 +1,67 @@
 <table>
-    <tr>
+        <tr>
+    <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
+<img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/FakeNFT.gif?raw=true" width="300" alt="ShoppingList Demo"><br>
+<div style="text-align: center; margin: 15px 0; line-height: 1.6;">
+<img src="https://img.shields.io/badge/UI-SwiftUI-0D47A1?style=flat&logo=swift&logoColor=white" height="24" title="Интерфейс: SwiftUI">
+<img src="https://img.shields.io/badge/Architecture-MVVM-blueviolet?style=flat" height="24" title="Архитектура: MVVM">
+<img src="https://img.shields.io/badge/Swift-6.0-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift 6.0">
+<img src="https://img.shields.io/badge/Concurrency-async%2Fawait-2962FF?style=flat&logo=swift&logoColor=white" height="24" title="Асинхронность: async/await">
+<img src="https://img.shields.io/badge/Actors-Sendable-7E57C2?style=flat" height="24" title="Actors + Sendable для безопасности потоков">
+<img src="https://img.shields.io/badge/Network-Mock_API-5D4037?style=flat" height="24" title="Mock API — имитация покупки">
+<img src="https://img.shields.io/badge/External-WKWebView-5C6BC0?style=flat" height="24" title="Внешний контент: WKWebView">
+<img src="https://img.shields.io/badge/Settings-@AppStorage-5D4037?style=flat" height="24" title="Сохранение настроек: @AppStorage">
+<img src="https://img.shields.io/badge/State-@Observable-7E57C2?style=flat" height="24" title="Состояние через @Observable">
+<img src="https://img.shields.io/badge/Code_Style-SwiftLint-795548?style=flat" height="24" title="Единый стиль кода: SwiftLint">
+<img src="https://img.shields.io/badge/iOS-17.0%2B-000000?style=flat&logo=apple&logoColor=white" height="24" title="Минимальная версия iOS 17.0">
+      </div>
+    </td>
+    <td valign="top">
+
+## 📦 <sub>🔗 <a href="https://github.com/Fortovaya/FakeNFT"> FakeNFT </a></sub>
+
+**Приложение для просмотра и покупки NFT**, разработанное на SwiftUI с архитектурой MVVM.  
+Проект реализован **в команде**: совместное проектирование, распределение задач, согласованный UI и регулярные код-ревью.
+
+### ✨ Основной функционал
+
+- Каталог NFT, сгруппированный по коллекциям
+- Экран коллекции: обложка, описание, автор (ссылка на сайт в WKWebView)  
+- Карточки NFT: изображение, название, рейтинг, цена (ETH), избранное, добавление в корзину  
+- Детальный экран NFT (арт, метаданные, кнопка «Buy» — покупка имитируется mock-сервером)  
+- Корзина: список товаров, удаление с подтверждением, итоговая сумма и кнопка оплаты  
+- Экран выбора валюты и пользовательское соглашение (открывается в WKWebView)  
+- Профиль пользователя: фото, имя, описание, раздел с NFT пользователя, избранные NFT  
+- Рейтинг пользователей: место в рейтинге, аватар, количество NFT, переход в профиль  
+- Поиск и сортировки (каталог, корзина, мои NFT, статистика) с сохранением настроек через @AppStorage  
+
+---
+### 🤝 Командная работа
+
+- GitHub Projects (Kanban): *Backlog → In progress → In review → Done*  
+- GitHub Flow: feature-ветки → PR → code review  
+- Совместная работа по макетам Figma, согласование UI/UX  
+- Решение merge-конфликтов (включая SourceTree)  
+- Код-ревью и поддержание единого код-стандарта
+
+---
+
+### 📦 Доп. функционал
+
+- **Локализация** (RU / EN)  
+- **Тёмная тема**
+
+---
+
+### 📱 Требования
+
+```diff
++ iPhone (iOS 17+)
++ Адаптировано под разные диагонали
+- iPad в текущей версии не поддерживается
+```
+        
+<tr>
     <td width="320" valign="top" style="padding-top: 30px; text-align: center;">
 <img src="https://github.com/Fortovaya/Fortovaya/blob/main/img/ShoppingList.gif?raw=true" width="300" alt="ShoppingList Demo"><br>
 <div style="text-align: center; margin: 15px 0; line-height: 1.6;">
@@ -8,7 +70,6 @@
 <img src="https://img.shields.io/badge/Swift-6.0-F05138?style=flat&logo=swift&logoColor=white" height="24" title="Swift 6.0">
 <img src="https://img.shields.io/badge/Concurrency-async%2Fawait-2962FF?style=flat&logo=swift&logoColor=white" height="24" title="Асинхронность: async/await">
 <img src="https://img.shields.io/badge/Storage-SwiftData-009688?style=flat&logo=apple&logoColor=white" height="24" title="Локальное хранение: SwiftData">
-<img src="https://img.shields.io/badge/State-@Observable-7E57C2?style=flat" height="24" title="Состояние через @Observable">
 <img src="https://img.shields.io/badge/Settings-@AppStorage-5D4037?style=flat" height="24" title="Настройки через @AppStorage">
 <img src="https://img.shields.io/badge/Code_Style-SwiftLint-795548?style=flat" height="24" title="Единый стиль кода: SwiftLint">
 <img src="https://img.shields.io/badge/iOS-17.0%2B-000000?style=flat&logo=apple&logoColor=white" height="24" title="Минимальная версия iOS 17.0">
